@@ -1,2 +1,2 @@
 experiment,test_loss,bleu_score
-fftTesting,716.4114379882812,"{'bleu': 0.024314319549676687, 'precisions': [0.140625, 0.09375, 0.0703125, 0.04017857142857143], 'brevity_penalty': 0.311241076964909, 'length_ratio': 0.46142754145638065, 'translation_length': 640, 'reference_length': 1387}"
+fftTesting,11.193929,"{'bleu': 0.024314319549676687, 'precisions': [0.140625, 0.09375, 0.0703125, 0.04017857142857143], 'brevity_penalty': 0.311241076964909, 'length_ratio': 0.46142754145638065, 'translation_length': 640, 'reference_length': 1387}"
