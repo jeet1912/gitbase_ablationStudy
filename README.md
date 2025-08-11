@@ -8,6 +8,7 @@ This repository contains code and data for fine-tuning vision-language models on
 
 # Project Structure
 📁 code/
+
 Contains the main implementation files for different fine-tuning approaches:
 
 mimic_cxr.ipynb - Main notebook for MIMIC-CXR dataset processing and model training
@@ -15,11 +16,13 @@ mimic_cxr_ablation.ipynb - Ablation study experiments comparing different model 
 mimic_cxr_fft.ipynb - Full Fine-Tuning (FFT) implementation and experiments
 
 📁 comparisiondiagrams/
+
 Visualization and comparison materials:
 
 mimic_cxr_comparisionCharts_L... - Comparison charts and diagrams for different training methods and results
 
 📁 data/
+
 Dataset files and data splits:
 
 sampled_5000_per_label.csv - Balanced dataset with 5000 samples per label for training
@@ -28,12 +31,14 @@ train_split.csv - Training dataset split
 val_split.csv - Validation dataset split for model selection
 
 📁 fftresults/
+
 Full Fine-Tuning experiment results:
 
 fftTest_target_modules_ablation... - Test results from FFT target modules ablation study
 ffttrain_target_modules_ablatio... - Training results from FFT target modules ablation study
 
 📁 loraResults/
+
 LoRA (Low-Rank Adaptation) experiment results:
 
 lora_target_modules_ablation_r... - Results from LoRA target modules ablation experiments
