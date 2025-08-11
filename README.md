@@ -3,7 +3,6 @@
 This project performs a systematic comparison of **Traditional Fine-tuning** and **Low-Rank Adaptation (LoRA)** for large language models on downstream classification tasks.
  It benchmarks performance, memory, and computational efficiency across tasks and model scales.
 
-#  MIMIC-CXR Fine-Tuning Project
 This repository contains code and data for fine-tuning vision-language models on the MIMIC-CXR dataset using different training strategies including full fine-tuning, LoRA (Low-Rank Adaptation), and ablation studies.
 
 # Project Structure
